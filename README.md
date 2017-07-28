@@ -2,7 +2,7 @@
 # node_dropbox_sync
 
 # Prerequisites
-You must have all these installed:
+You need to have all these installed:
 
 -node js
 
@@ -13,13 +13,14 @@ You must have all these installed:
 -dropbox API
 
 
+You must do the following: 
 
-You must create a dropbox app and get the generated access token
+- create a dropbox app and get the generated access token
 
-You must start mongodb and keep it running
+- start mongodb and keep it running
 
-You need to install all missing modules
+- install all missing modules
 
 launch service by running command:
 
-node bin/www or npm start 
+npm start or node bin/www
